@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void sum()   // void means no return type
+void sum()   
 {
 int a,b;
 scanf("%d %d",&a,&b);
